@@ -1,0 +1,2 @@
+# GlobalVeYerelDegiskenler
+Global değişkeni kullanma
